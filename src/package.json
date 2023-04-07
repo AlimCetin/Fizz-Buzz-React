@@ -1,0 +1,11 @@
+{
+  "name": "fizz-buzz-react",
+  "version": "1.0.0",
+  "description": "Counting incrementally, replacing any number divisible by three with the word \"fizz\", and any number divisible by five with the word \"buzz\".",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
